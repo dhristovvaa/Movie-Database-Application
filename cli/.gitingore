@@ -1,0 +1,28 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (e.g. virtualenv, pipenv, poetry)
+.env/
+venv/
+*.venv/
+pip-selfcheck.json
+
+# IDE or editor specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw??
+*.user
+*.suo
+*.cache
+*.nfs*
+*.log
+*.out
+*.out.*
+*.pyc
